@@ -1,0 +1,160 @@
+item {
+  name: "adidas"
+  id: 1
+  display_name: "adidas"
+}
+item {
+  name: "aldi"
+  id: 2
+  display_name: "aldi"
+}
+item {
+  name: "apple"
+  id: 3
+  display_name: "apple"
+}
+item {
+  name: "becks"
+  id: 4
+  display_name: "becks"
+}
+item {
+  name: "bmw"
+  id: 5
+  display_name: "bmw"
+}
+item {
+  name: "carlsberg"
+  id: 6
+  display_name: "carlsberg"
+}
+item {
+  name: "chimay"
+  id: 7
+  display_name: "chimay"
+}
+item {
+  name: "cocacola"
+  id: 8
+  display_name: "cocacola"
+}
+item {
+  name: "corona"
+  id: 9
+  display_name: "corona"
+}
+item {
+  name: "dhl"
+  id: 10
+  display_name: "dhl"
+}
+item {
+  name: "erdinger"
+  id: 11
+  display_name: "erdinger"
+}
+item {
+  name: "esso"
+  id: 12
+  display_name: "esso"
+}
+item {
+  name: "fedex"
+  id: 13
+  display_name: "fedex"
+}
+item {
+  name: "ferrari"
+  id: 14
+  display_name: "ferrari"
+}
+item {
+  name: "ford"
+  id: 15
+  display_name: "ford"
+}
+item {
+  name: "fosters"
+  id: 16
+  display_name: "fosters"
+}
+item {
+  name: "google"
+  id: 17
+  display_name: "google"
+}
+item {
+  name: "guinness"
+  id: 18
+  display_name: "guinness"
+}
+item {
+  name: "heineken"
+  id: 19
+  display_name: "heineken"
+}
+item {
+  name: "hp"
+  id: 20
+  display_name: "hp"
+}
+item {
+  name: "milka"
+  id: 21
+  display_name: "milka"
+}
+item {
+  name: "nvidia"
+  id: 22
+  display_name: "nvidia"
+}
+item {
+  name: "paulaner"
+  id: 23
+  display_name: "paulaner"
+}
+item {
+  name: "pepsi"
+  id: 24
+  display_name: "pepsi"
+}
+item {
+  name: "rittersport"
+  id: 25
+  display_name: "rittersport"
+}
+item {
+  name: "shell"
+  id: 26
+  display_name: "shell"
+}
+item {
+  name: "singha"
+  id: 27
+  display_name: "singha"
+}
+item {
+  name: "starbucks"
+  id: 28
+  display_name: "starbucks"
+}
+item {
+  name: "stellaartois"
+  id: 29
+  display_name: "stellaartois"
+}
+item {
+  name: "texaco"
+  id: 30
+  display_name: "texaco"
+}
+item {
+  name: "tsingtao"
+  id: 31
+  display_name: "tsingtao"
+}
+item {
+  name: "ups"
+  id: 32
+  display_name: "ups"
+}

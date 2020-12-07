@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>adidas_3.jpg</filename>
+	<path>/home/avinash/Desktop/My Master Thesis/object-detection/Images/train/adidas_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>280</width>
+		<height>210</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>adidas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>20</ymin>
+			<xmax>229</xmax>
+			<ymax>145</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>adidas</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>145</ymin>
+			<xmax>227</xmax>
+			<ymax>190</ymax>
+		</bndbox>
+	</object>
+</annotation>
